@@ -1,6 +1,6 @@
 # [JSP] 도서관 웹페이지
 
-<img src="https://github.com/juyub/JooLib/assets/126839881/a48d9f4f-f2c8-4c0d-a5d7-bdefe8fa130e"  /> <br>
+<img src="https://github.com/juyub/JooLib/assets/126839881/ab5eb046-2fb4-460d-8fc9-354c2efb5ac2"  /> <br>
 - 구성 <br>
 <img src="https://github.com/juyub/JooLib/assets/126839881/fcf5e1ae-4c63-40b2-92d4-af22e88ede91"  /> <br>
 - Workflow <br>
